@@ -25,5 +25,6 @@ class Discounteligibility{
         }
 
         System.out.println("final Bill Ammount " + ammount);
+        sc.close();
     }
 }

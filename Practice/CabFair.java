@@ -22,6 +22,6 @@ public class CabFair {
         }
 
         System.out.println("Total Cab Charges is: " + charges);
-
+        sc.close();
     }
 }

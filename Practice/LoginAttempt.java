@@ -27,5 +27,7 @@ public class LoginAttempt {
         if (loginAttemplt >=3) {
             System.out.println("Account Locked!");
         }
+
+        sc.close();
     }
 }

@@ -21,5 +21,6 @@ public class ElectricityBill {
         }
 
         System.out.println("Total Electricity bill is : " + bill);
+        sc.close();
     }
 }
